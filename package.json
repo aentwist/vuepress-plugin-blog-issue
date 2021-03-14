@@ -1,0 +1,20 @@
+{
+  "name": "example.com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/example.com",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "vuepress": "^1.8.2"
+  }
+}
